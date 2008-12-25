@@ -1,23 +1,24 @@
-ABOUT
------
+= ABOUT
 This is a very simple RSS parser that supports feeds protected by HTTP Basic Authentication.
 
+= INSTALLATION
+  sudo gem install honza-rss-parser
 
+= USAGE
+  require 'rss_parser'
 
-INSTALLATION
-------------
-sudo gem install honza-rss-parser
+  @entries = RssParser.parse('http://twitter.com/statuses/friends_timeline/16901911.rss', 'jankubr', 'fake').items
 
+  <% @entries.each do |entry| %>
+    <%= link_to entry.title, entry.link %>:
+    <%= entry.description %>
+  <% end %>
 
+= License
+Copyright © 2008 Jan Kubr
 
-USAGE
------
-require 'rss_parser'
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-@entries = RssParser.parse('http://twitter.com/statuses/friends_timeline/16901911.rss', 'jankubr', 'fake').items
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-<% @entries.each do |entry| %>
-  <%= link_to entry.title, entry.link %>:
-  <%= entry.description %>
-<% end %>
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
