@@ -3,9 +3,11 @@ ABOUT
 This is a very simple RSS parser that supports feeds protected by HTTP Basic Authentication.
 
 
+
 INSTALLATION
 ------------
 sudo gem install honza-rss-parser
+
 
 
 USAGE
@@ -13,3 +15,9 @@ USAGE
 require 'rss_parser'
 
 @entries = RssParser.parse('http://twitter.com/statuses/friends_timeline/16901911.rss', 'jankubr', 'fake').items
+
+<% @entries.each do |entry| %>
+  <%= link_to entry.title, entry.link %>:
+  <%= entry.description %>
+<% end %>
+
