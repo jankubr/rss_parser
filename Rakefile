@@ -10,7 +10,8 @@ Echoe.new('rss-parser', '0.1.0') do |p|
   p.author         = "Jan Kubr"
   p.email          = "jan.kubr@gmail.com"
   p.ignore_pattern = ["tmp/*", "script/*"]
-  p.development_dependencies = []
+  p.runtime_dependencies = ['nokogiri']
+  p.development_dependencies = ['cucumber', 'rspec', 'mocha', 'simple-rss']
 end
 
 Dir["#{File.dirname(__FILE__)}/tasks/*.rake"].sort.each { |ext| load ext }
