@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>on freedom</title>
+	<atom:link href="http://jan.flempo.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://jan.flempo.com</link>
+	<description></description>
+	<pubDate>Wed, 24 Dec 2008 10:19:14 +0000</pubDate>
+
+	<generator>http://wordpress.org/?v=MU</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<image>
+		<url>http://www.gravatar.com/blavatar/e6844f03975112fad4fc43bbe0dd041e?s=96&#038;d=http://s.wordpress.com/i/buttonw-com.png</url>
+
+		<title>on freedom</title>
+		<link>http://jan.flempo.com</link>
+	</image>
+			<item>
+		<title>A book read: My Startup Life by Ben Casnocha</title>
+		<link>http://jan.flempo.com/2008/12/18/a-book-read-my-startup-life-by-ben-casnocha/</link>
+		<comments>http://jan.flempo.com/2008/12/18/a-book-read-my-startup-life-by-ben-casnocha/#comments</comments>
+
+		<pubDate>Thu, 18 Dec 2008 09:19:50 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[ben casnocha]]></category>
+
+		<category><![CDATA[book]]></category>
+
+		<category><![CDATA[comcate]]></category>
+
+		<category><![CDATA[entrepreneurship]]></category>
+
+		<category><![CDATA[feedback]]></category>
+
+		<category><![CDATA[my startup life]]></category>
+
+		<category><![CDATA[software]]></category>
+
+		<category><![CDATA[startup]]></category>
+
+		<guid isPermaLink="false">http://jan.flempo.com/?p=182</guid>
+
+		<description><![CDATA[This book is a story about Ben Casnocha&#8217;s experiences with starting a software startup. He was very young when he started it (13), but that is not at all why you should read this book. It is full of valuable advice on how to get a company off the ground and is especially valuable for [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>This book is a story about <a title="Ben Casnocha's blog" href="http://ben.casnocha.com/" target="_blank">Ben Casnocha</a>&#8217;s experiences with starting a software startup. He was very young when he started it (13), but that is not at all why you should read this book. It is full of valuable advice on how to get a company off the ground and is especially valuable for someone who is more on the technical side of things - like me.</p>
+<h2>What to build</h2>
+<p>How do you choose what to build? Ben has an interesting observation:</p>
+<p><em>&#8220;Some problems require &#8216;vitamins&#8217; - that is, a product that&#8217;s &#8216;nice to have.&#8217; Some issues require &#8216;antibiotics&#8217; which means they&#8217;re mission-critical problems. Most profitable businesses solve mission-critical problems, or the &#8216;must-haves&#8217;.&#8221;</em></p>
+<h2>Sell, sell, sell</h2>
+<p>Ben focused on selling their product from almost the day one, although it was only a &#8220;beta&#8221; written by a cheap programmer.  He didn&#8217;t want to wait until the product was &#8220;perfect.&#8221; If it provides good value to its customers, try to sell it to as many people as possible. Generate revenue that you can then invest back to the product to make it better.</p>
+<p>Sounds cheesy. But many people are ashamed of early versions of their product and don&#8217;t want to offer it to customers (or to charge them for it) until they finish <em>this</em> feature. When that&#8217;s done, there is <em>another</em> <em>crucial</em> <em>piece</em> of functionality that needs to be added. And that goes on until the company disappears because there is no money to keep it alive. Sell what is good enough and make it better over time. In Ben&#8217;s words:</p>
+<p><em>&#8220;Isn&#8217;t developing software the core competency of the business? It&#8217;s actually not that simple. In the early goings, it can be better to ship less-than-perfect software and focus on selling, selling, selling, rather than making perfect software.&#8221;</em></p>
+<p><em>&#8220;Good enough is a key principle in entrepreneurship. If your aim is &#8216;perfect,&#8217; the future is so far away it may be hard to get going.&#8221; </em></p>
+<p>However, you can&#8217;t be only &#8220;good enough&#8221; in everything, then you end up being mediocre. The trick is to choose in what you need to be great and where &#8220;good enough&#8221; is - well - good enough! Making these decisions will also help you decide when to save money and buy something cheap (maybe a desk) and when demand fine quality (business cards, chairs for programmers).</p>
+<h2>Good programmers are hard to find</h2>
+<p>Creating a software product is everything but easy. As Ben noticed, <em>&#8220;Do you want it cheap, fast, or good? Choose two, says the old engineering adage.&#8221;</em> And a related observation: <em>&#8220;Technology start-ups take note: when a programmer isn&#8217;t on the founding team, it is difficult to find engineers who are both high quality and affordable.&#8221;</em></p>
+<h2>What to charge?</h2>
+<p>How much to charge your customers? Think about how much the customer&#8217;s problems you are solving are costing. If you replace one person&#8217;s week of work, then her salary for that week is about what you should charge.</p>
+<h2>B-plan or not?</h2>
+<p>Should you write a business plan even you don&#8217;t need it for any investors? Interesting observation by Ben: <em>&#8220;The best business plans do more for you than for others by clarifying your own thinking.&#8221;</em></p>
+<h2>Get out of your office!</h2>
+<p>Ben says it is critical to get face time with (potential) customers, especially in the beginning. You need to learn as much as you can about your customers&#8217; problems and generally about the market you are in. Also they will trust you more if they see you in person. He encourages you to get out of your office and talk to people! (And by the way: <em>&#8220;The two best moments to receive high-quality feedback from people are when they are hired and fired.&#8221;</em>) But beware: <em>&#8220;True innovation rarely sprouts from customer feedback, but good products must be informed by it.&#8221;</em></p>
+<h2>How to become better</h2>
+<p>And what Ben thinks you can do as a person to become (more) successful with your company?</p>
+<p><em>&#8220;People who get stuff done think about the short-term feature. (&#8230;) People who get stuff done &#8216;dream&#8217; and &#8216;talk&#8217; as much as the next guy, but they share these dreams and ideas with others. (&#8230;) People who get stuff done begin. Taking that first step can be the hardest. Act now! (&#8230;) Do you want to be known as a doer or a talker? Do you want to start businesses or just talk about starting businesses?&#8221;</em></p>
+<p>Don&#8217;t let failures stop you:</p>
+<p><em>&#8220;Ups and downs are the definitive indication that you are doing something entrepreneurial. If your records is spotless, then you haven&#8217;t been an entrepreneur. If the only mistakes you&#8217;ve made are on school papers or in mishandling a report in a big corporation, those aren&#8217;t spots. It&#8217;s the spots from the school of hard knocks that matter. (&#8230;) With practice you&#8217;ll learn to see failure as just feedback for improvement.&#8221;</em></p>
+<p>Maximize luck by exposing yourself to randomness:</p>
+<p><em>&#8220;Attend conferences no one else is attending. Read books no one else is reading. Talk to people no one else is talking to.&#8221;</em></p>
+<p>Trick yourself:</p>
+<p><em>&#8220;Self-deception is essential for high self-esteem. It&#8217;s OK to take more credit than you deserve, in you own mind, for successes. It&#8217;s OK to think that you can outwork and outpassion anyone who competes with you. It&#8217;s OK to attribute soaring victories to a tireless work ethic. It&#8217;s OK if these are slight exaggerations. After all, how many people attribute &#8216;good luck&#8217; to their wins? Far fewer than those who attribute &#8216;bad luck&#8217; to their losses! Stay humble, especially on the outside, but consider yourself (privately) as unstoppable.&#8221;</em></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/182/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/182/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/182/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/182/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/182/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/182/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/182/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/182/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/182/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/182/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=182&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/12/18/a-book-read-my-startup-life-by-ben-casnocha/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+
+		<title>Focus on incremental improvements</title>
+		<link>http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/</link>
+		<comments>http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/#comments</comments>
+		<pubDate>Wed, 17 Dec 2008 10:30:17 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[goals]]></category>
+
+		<category><![CDATA[incremental improvements]]></category>
+
+		<guid isPermaLink="false">http://jan.flempo.com/?p=180</guid>
+		<description><![CDATA[There will be no breakthrough that will suddenly fulfil your goal for you. There are only many small steps that take you closer to completion. And no one will walk that path for you. Focus on incremental improvements; don&#8217;t forget about your end goal, but learn to improve the status quo gradually. Don&#8217;t skip steps.
+&#160;&#160;&#160;&#160;&#160;&#160; [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>There will be no breakthrough that will suddenly fulfil your goal for you. There are only many small steps that take you closer to completion. And no one will walk that path for you. Focus on incremental improvements; don&#8217;t forget about your end goal, but learn to improve the status quo gradually. Don&#8217;t skip steps.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/180/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/180/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/180/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/180/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/180/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/180/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/180/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/180/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/180/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/180/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=180&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/feed/</wfw:commentRss>
+
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>My last week&#8217;s best and worst pieces of entertainment</title>
+		<link>http://jan.flempo.com/2008/11/24/my-last-weeks-best-and-worst-pieces-of-entertainment/</link>
+
+		<comments>http://jan.flempo.com/2008/11/24/my-last-weeks-best-and-worst-pieces-of-entertainment/#comments</comments>
+		<pubDate>Mon, 24 Nov 2008 08:19:43 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[jeff stewart]]></category>
+
+		<category><![CDATA[Michel Houellebecq]]></category>
+
+		<category><![CDATA[movie]]></category>
+
+		<category><![CDATA[The Possibility of an Island]]></category>
+
+		<category><![CDATA[venture voice]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=177</guid>
+		<description><![CDATA[You already know from me that Venture Voice is the best podcast on Earth (on entrepreneurship, at least), but you don&#8217;t know yet that its latest episode with Jeff Stewart is the best episode so far (quote: &#8220;The way you create wealth is by creating wealth for everybody.&#8221;). This might be the first and last [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>You already know from me that <a href="http://venturevoice.com" target="_blank">Venture Voice</a> is the best podcast on Earth (on entrepreneurship, at least), but you don&#8217;t know yet that its latest <a href="http://www.venturevoice.com/2008/11/vv_show_51_jeff_stewart_of_mim.html" target="_blank">episode with Jeff Stewart</a> is the best episode so far (quote: &#8220;The way you create wealth is by creating wealth for everybody.&#8221;). This might be the first and last episode of any podcast I&#8217;ll ever listen to more than once.</p>
+<p>I&#8217;ve written about <a href="http://jan.flempo.com/2008/07/20/a-book-read-the-possibility-of-an-island-by-michel-houellebecq/" target="_blank">Michel Houellebecq&#8217;s book The Possibility of an Island</a> before and although I wasn&#8217;t too excited about it, I think it&#8217;s worth spending the time to read it. But if you ever ever come across the movie that is based on this book, don&#8217;t even think about wasting your time watching it. It is by far the worst movie I&#8217;ve ever seen. Although I read the book, I have no idea what the movie is supposed to be about; it has no plot and no ending. Even though this is a 2008 movie, it&#8217;s full of boring long shots as if you were watching a movie from the seventies. Eh, to make it short, watch something else or read the book.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/177/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/177/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/177/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/177/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/177/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/177/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/177/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/177/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/177/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/177/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=177&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+
+			<wfw:commentRss>http://jan.flempo.com/2008/11/24/my-last-weeks-best-and-worst-pieces-of-entertainment/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Learning is annoying</title>
+
+		<link>http://jan.flempo.com/2008/11/12/learning-is-annoying/</link>
+		<comments>http://jan.flempo.com/2008/11/12/learning-is-annoying/#comments</comments>
+		<pubDate>Wed, 12 Nov 2008 08:13:39 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[annoying]]></category>
+
+		<category><![CDATA[learning]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=174</guid>
+		<description><![CDATA[It is so uncomfortable not knowing something and not pretending you don&#8217;t need or want to know it. You are like a kid again, you are not this i-know-everything adult. You&#8217;re not an expert anymore, you are one of the newbies you sometimes laugh about.
+You need to start over. With the technology you&#8217;ve worked with [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>It is so uncomfortable not knowing something and not pretending you don&#8217;t need or want to know it. You are like a kid again, you are not this i-know-everything adult. You&#8217;re not an expert anymore, you are one of the newbies you sometimes laugh about.</p>
+<p>You need to start over. With the technology you&#8217;ve worked with for the past three years, you need to read very little to get on top of the new stuff. You don&#8217;t need to read a whole book about it because most of its content is already something you know. With the new technology though, you need to read not only books, but also every shitty blog post that comes along. Just to cover the field. You need to try and fail and try again. Everything takes longer than you were used to.</p>
+<p>It can be annoying and painful, but certainly not boring. And it is the single most important thing in your professional life. Without learning you can just die now.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/174/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/174/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/174/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/174/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/174/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/174/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/174/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/174/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/174/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/174/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=174&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/11/12/learning-is-annoying/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+
+		</media:content>
+	</item>
+		<item>
+		<title>Simple tip on how to be awesome in anything</title>
+		<link>http://jan.flempo.com/2008/11/11/simple-tip-on-how-to-be-awesome-in-anything/</link>
+		<comments>http://jan.flempo.com/2008/11/11/simple-tip-on-how-to-be-awesome-in-anything/#comments</comments>
+		<pubDate>Tue, 11 Nov 2008 10:19:27 +0000</pubDate>
+
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[anything]]></category>
+
+		<category><![CDATA[awesome]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=170</guid>
+		<description><![CDATA[10,000 hours of practice will get you anywhere.
+&#160;&#160;&#160;&#160;&#160;&#160;     ]]></description>
+
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><a href="http://gilesbowkett.blogspot.com/2008/11/how-to-be-fucking-awesome.html" target="_blank">10,000 hours of practice</a> will get you anywhere.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/170/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/170/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/170/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/170/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/170/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/170/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/170/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/170/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/170/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/170/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=170&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/11/11/simple-tip-on-how-to-be-awesome-in-anything/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What building web apps is all about</title>
+
+		<link>http://jan.flempo.com/2008/11/07/what-is-building-web-apps-all-about/</link>
+		<comments>http://jan.flempo.com/2008/11/07/what-is-building-web-apps-all-about/#comments</comments>
+		<pubDate>Fri, 07 Nov 2008 13:43:32 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=168</guid>
+		<description><![CDATA[Building web applications is all about these five things:
+
+Usefulness
+Usability
+Efficiency
+Security
+Balance
+
+&#160;&#160;&#160;&#160;&#160;&#160;     ]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>Building web applications is all about these five things:</p>
+<ol>
+<li>Usefulness</li>
+<li>Usability</li>
+<li>Efficiency</li>
+<li>Security</li>
+<li>Balance</li>
+</ol>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/168/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/168/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/168/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/168/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/168/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/168/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/168/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/168/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/168/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/168/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=168&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/11/07/what-is-building-web-apps-all-about/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+
+	</item>
+		<item>
+		<title>SEO is bullshit</title>
+		<link>http://jan.flempo.com/2008/11/01/seo-is-bullshit/</link>
+		<comments>http://jan.flempo.com/2008/11/01/seo-is-bullshit/#comments</comments>
+		<pubDate>Sat, 01 Nov 2008 21:45:50 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[bullshit]]></category>
+
+		<category><![CDATA[seo]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=166</guid>
+		<description><![CDATA[SEO is using deodorant instead of washing.
+&#160;&#160;&#160;&#160;&#160;&#160;     ]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><a title="SEO is bullshit" href="http://www.contrast.ie/blog/seo-is-bullshit/" target="_blank">SEO</a><a title="SEO is bullshit" href="http://www.contrast.ie/blog/seo-is-bullshit/" target="_blank"> is using deodorant instead of washing</a>.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/166/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/166/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/166/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/166/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/166/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/166/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/166/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/166/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/166/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/166/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=166&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/11/01/seo-is-bullshit/feed/</wfw:commentRss>
+
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A book read: A Whole New Mind by Daniel H. Pink</title>
+		<link>http://jan.flempo.com/2008/10/27/a-book-read-a-whole-new-mind-by-daniel-h-pink/</link>
+
+		<comments>http://jan.flempo.com/2008/10/27/a-book-read-a-whole-new-mind-by-daniel-h-pink/#comments</comments>
+		<pubDate>Mon, 27 Oct 2008 21:16:01 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[a whole new mind]]></category>
+
+		<category><![CDATA[daniel h. pink]]></category>
+
+		<category><![CDATA[jill taylor]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=160</guid>
+		<description><![CDATA[I usually don&#8217;t skip pages. Usually.
+In the beginning of this book Daniel explains the difference about the two hemispheres of our brains as scientists see them today. I know you know it, but you still can watch this video about Jill Bolte Taylor&#8217;s stroke; it will fill the gaps.
+Then he explains how skills driven by [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>I usually don&#8217;t skip pages. Usually.</p>
+<p>In the beginning of this book Daniel explains the difference about the two hemispheres of our brains as scientists see them today. I know you know it, but you still can watch this <a title="Jill Bolte Taylor's powerful stroke" href="http://www.ted.com/index.php/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html" target="_blank">video about Jill Bolte Taylor&#8217;s stroke</a>; it will fill the gaps.</p>
+<p>Then he explains how skills driven by the right hemisphere (design, story-telling, synthesis, empathy, play, and [deeper] meaning) will be more appreciated that those controlled by the left one since they can be easily automated or cheaply outsourced.</p>
+<p>Is there anything surprising in this book? No. Is there any reason you should pick this book over <a title="The World Is Flat" href="http://jan.flempo.com/2007/08/13/the-east-is-working-while-the-west/" target="_blank">Friedman&#8217;s The World Is Flat</a>? No. Do I have the slightest idea why Seth Godin recommended this book? Hell no.</p>
+<p>Fortunately I am reading a very interesting book now; stay tuned for the next review.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/160/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/160/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/160/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/160/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/160/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/160/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/160/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/160/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/160/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/160/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=160&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/10/27/a-book-read-a-whole-new-mind-by-daniel-h-pink/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+
+		</media:content>
+	</item>
+		<item>
+		<title>Personal development education 2.0</title>
+		<link>http://jan.flempo.com/2008/10/16/personal-development-education-20/</link>
+		<comments>http://jan.flempo.com/2008/10/16/personal-development-education-20/#comments</comments>
+		<pubDate>Thu, 16 Oct 2008 13:52:29 +0000</pubDate>
+
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[coach tv]]></category>
+
+		<category><![CDATA[personal development]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=162</guid>
+		<description><![CDATA[I sort of stopped reading books about personal development. Now Coach TV is my self development education. Try to watch a few videos, you might like it.
+&#160;&#160;&#160;&#160;&#160;&#160;     ]]></description>
+
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p>I sort of <a href="http://jan.flempo.com/2007/05/13/personal-development/" target="_blank">stopped reading books about personal development</a>. Now <a title="Coach TV" href="http://coachtvblog.com/" target="_blank">Coach TV</a> is my self development education. Try to watch a few videos, you might like it.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/162/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/162/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/162/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/162/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/162/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/162/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/162/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/162/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/162/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/162/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=162&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/10/16/personal-development-education-20/feed/</wfw:commentRss>
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Telfa in the final of the Startup Show contest!</title>
+
+		<link>http://jan.flempo.com/2008/10/12/telfa-in-the-final-of-the-startup-show-contest/</link>
+		<comments>http://jan.flempo.com/2008/10/12/telfa-in-the-final-of-the-startup-show-contest/#comments</comments>
+		<pubDate>Sun, 12 Oct 2008 11:59:51 +0000</pubDate>
+		<dc:creator>Jan Kubr</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<category><![CDATA[startup show]]></category>
+
+		<category><![CDATA[telfa]]></category>
+
+		<category><![CDATA[webexpo]]></category>
+
+		<guid isPermaLink="false">http://flempo.wordpress.com/?p=156</guid>
+		<description><![CDATA[Telfa (our telephone exchange / call center solution) is in the final of Startup Show! Startup Show is a contest being held as part of WebExpo, a Prague&#8217;s conference about web technologies.
+I&#8217;m far from overestimating this thing, but being able to present the product to a room (hopefully not too empty one..) of web enthusiasts [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><a title="telephone exchange" href="http://telfa.cz" target="_blank">Telfa</a> (<a title="Livispace" href="http://livispace.cz" target="_blank">our</a> telephone exchange / call center solution) is in the final of <a title="Startup Show" href="http://webexpo.cz/souteze/#switch-startup-show" target="_blank">Startup Show</a>! Startup Show is a contest being held as part of <a title="WebExpo Prague 2008 " href="http://webexpo.cz/" target="_blank">WebExpo</a>, a Prague&#8217;s conference about web technologies.</p>
+<p>I&#8217;m far from overestimating this thing, but being able to present the product to a room (hopefully not too empty one..) of web enthusiasts is better than.. well, not to do it.. Feedback is important and this is a way how to get it for free. Not to mention it is free advertising as well. Now imagine we even meet some new customers..</p>
+<p>I just can&#8217;t find any cons here apart from the fact that we&#8217;ll need to work even harder on this the next week.. Pretty amazing stuff.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/flempo.wordpress.com/156/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/flempo.wordpress.com/156/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/flempo.wordpress.com/156/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/flempo.wordpress.com/156/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/flempo.wordpress.com/156/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/flempo.wordpress.com/156/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/flempo.wordpress.com/156/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/flempo.wordpress.com/156/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/flempo.wordpress.com/156/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/flempo.wordpress.com/156/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=jan.flempo.com&blog=976303&post=156&subd=flempo&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://jan.flempo.com/2008/10/12/telfa-in-the-final-of-the-startup-show-contest/feed/</wfw:commentRss>
+
+	
+		<media:content url="http://www.gravatar.com/avatar/ea875673199ca2e6b6ba0eeda0e7e009?s=96&#38;d=identicon" medium="image">
+			<media:title type="html">Jan Kubr</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
