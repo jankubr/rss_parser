@@ -1,10 +1,10 @@
-= ABOUT
+= About
 This is a very simple RSS parser that supports feeds protected by HTTP Basic Authentication.
 
-= INSTALLATION
+= Installation
   sudo gem install honza-rss-parser
 
-= USAGE
+= Usage
   require 'rss_parser'
 
   @entries = RssParser.parse('http://twitter.com/statuses/friends_timeline/16901911.rss', 'jankubr', 'fake').items
