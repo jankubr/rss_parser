@@ -4,9 +4,9 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('rss-parser', '0.1.0') do |p|
+Echoe.new('rss_parser', '0.1.0') do |p|
   p.description    = "Simple RSS parser that supports feeds with HTTP Basic Authentication"
-  p.url            = "http://github.com/honza/rss-parser"
+  p.url            = "http://github.com/honza/rss_parser"
   p.author         = "Jan Kubr"
   p.email          = "jan.kubr@gmail.com"
   p.ignore_pattern = ["tmp/*", "script/*"]
