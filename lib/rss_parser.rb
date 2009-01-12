@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'ostruct'
+require 'time'
 
 require 'nokogiri'
 
@@ -69,11 +70,11 @@ private
     link = sub_element(doc, 'rss/channel/link')
     description = sub_element(doc, 'rss/channel/description')
     feed = Feed.new(title, link, description)
-    doc.xpath('rss/channel[1]//item').each do |item|      
+    doc.xpath('rss/channel[1]//item').each do |item|
       title = sub_element(item, 'title')
       link = sub_element(item, 'link')      
       description = sub_element(item, 'description')
-      pub_date = sub_element(item, 'pubDate')
+      pub_date = Time.parse(sub_element(item, 'pubDate'))
       feed.item(:title => title, :description => description, 
                 :link => link, :pub_date => pub_date)
     end
