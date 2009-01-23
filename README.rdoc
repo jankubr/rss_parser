@@ -2,7 +2,7 @@
 This is a very simple RSS parser that supports feeds protected by HTTP Basic Authentication.
 
 = Installation
-  sudo gem install honza-rss_parser
+  sudo gem install jankubr-rss_parser
 
 = Usage
   require 'rss_parser'
