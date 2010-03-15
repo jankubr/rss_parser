@@ -38,10 +38,17 @@ describe RssParser do
     feed.items[1].link.should == 'http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/'
   end
   
-  it "should parse feeds from edeneo" do
-    lambda {
-      RssParser.parse('http://blog.edeneo.fr/?feed=rss2', 'edeneo', 'edeneo')
-    }.should_not raise_exception
+  it "should use url with queries" do
+    #should start request
+    http = stub
+    Net::HTTP.expects(:start).yields(http)    
+    #response should be success and return sample XML with feed
+    response = Net::HTTPSuccess.new('', '', '')
+    response.expects(:body).returns(sample_feed_content)
+    http.expects(:request).returns(response)
+    
+    RssParser.any_instance.expects(:prepare_request).with('/?feed=rss2')
+    RssParser.parse('http://www.wordpress/?feed=rss2')
   end
   
   def sample_feed_content
