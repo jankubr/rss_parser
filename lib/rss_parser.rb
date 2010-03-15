@@ -38,7 +38,6 @@ class RssParser
   
   def process
     Net::HTTP.start(@url.host, @url.port) do |http|
-      # FIXME (Did): handle url like "http://www.example.com/?feed=rss2" used by Wordpress for instance
       path = @url.path
       path << "?#{@url.query}" if @url.query
       
