@@ -37,8 +37,12 @@ class RssParser
   end
   
   def process
-    Net::HTTP.start(@url.host, @url.port) do |http|      
-      data = get_data(http, prepare_request(@url.path))
+    Net::HTTP.start(@url.host, @url.port) do |http|
+      # FIXME (Did): handle url like "http://www.example.com/?feed=rss2" used by Wordpress for instance
+      path = @url.path
+      path << "?#{@url.query}" if @url.query
+      
+      data = get_data(http, prepare_request(path))
       @feed = parse(data)
     end
   end
@@ -65,12 +69,17 @@ private
   end
 
   def parse(xml)
+    # puts xml.inspect
+    
     doc = Nokogiri::XML(xml)
+    
+    # puts doc.inspect
+    
     title = sub_element(doc, 'rss/channel/title')
     link = sub_element(doc, 'rss/channel/link')
     description = sub_element(doc, 'rss/channel/description')
     feed = Feed.new(title, link, description)
-    doc.xpath('rss/channel[1]//item').each do |item|
+    doc.xpath('//rss/channel[1]//item').each do |item|
       title = sub_element(item, 'title')
       link = sub_element(item, 'link')      
       description = sub_element(item, 'description')

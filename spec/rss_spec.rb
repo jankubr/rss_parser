@@ -13,14 +13,14 @@ describe RssParser do
     request = stub
     Net::HTTP::Get.expects(:new).returns(request)
     request.expects(:basic_auth).with('user', 'password')
-
+  
     feed = RssParser.parse('url', 'user', 'password')
-
+  
     feed.items.first.title.should == 'A book read: My Startup Life by Ben Casnocha'
     feed.items[1].link.should == 'http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/'
   end
   
-  it "should parse feeds that redirect" do    
+  it "should parse feeds that redirect" do
     #should start request
     http = stub
     Net::HTTP.expects(:start).yields(http)    
@@ -31,11 +31,17 @@ describe RssParser do
     second_response.expects(:body).returns(sample_feed_content)
     response.expects(:[]).with('location').returns('url2')
     http.expects(:request).times(2).returns(response).then.returns(second_response)
-
+  
     feed = RssParser.parse('url')
-
+  
     feed.items.first.title.should == 'A book read: My Startup Life by Ben Casnocha'
     feed.items[1].link.should == 'http://jan.flempo.com/2008/12/17/focus-on-incremental-improvements/'
+  end
+  
+  it "should parse feeds from edeneo" do
+    lambda {
+      RssParser.parse('http://blog.edeneo.fr/?feed=rss2', 'edeneo', 'edeneo')
+    }.should_not raise_exception
   end
   
   def sample_feed_content
